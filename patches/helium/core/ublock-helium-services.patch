@@ -218,17 +218,17 @@
 --- a/chrome/app/settings_strings.grdp
 +++ b/chrome/app/settings_strings.grdp
 @@ -2027,6 +2027,12 @@
-       Helium will automatically download and install browser and component updates as they become available. We recommend keeping this setting enabled to ensure you get the latest features and security updates. Automatic core browser updates are not available on this platform yet, but component updates are. Please use external software to keep Helium up to date.
+       kaguya will automatically download and install browser and component updates as they become available. We recommend keeping this setting enabled to ensure you get the latest features and security updates. Automatic core browser updates are not available on this platform yet, but component updates are. Please use external software to keep kaguya up to date.
      </message>
    </if>
 +  <message name="IDS_SETTINGS_HELIUM_SERVICES_UBO" desc="Description of the toggle for uBO filter lists">
 +    Allow downloading filter lists for uBlock Origin
 +  </message>
 +  <message name="IDS_SETTINGS_HELIUM_SERVICES_UBO_DESCRIPTION" desc="Description of the toggle for automatic update downloads">
-+    Helium will fetch fresh filter lists for uBlock Origin. All requests to lists are proxied to protect your privacy. When disabled, default filter lists will be loaded from local storage, which are only updated along with Helium. Optional filter lists will be requested without proxying.
++    kaguya will fetch fresh filter lists for uBlock Origin. All requests to lists are proxied to protect your privacy. When disabled, default filter lists will be loaded from local storage, which are only updated along with kaguya. Optional filter lists will be requested without proxying.
 +  </message>
-   <message name="IDS_SETTINGS_HELIUM_SERVICES_OVERRIDE" desc="Text input for overriding the Helium services server">
-     Use your own instance of Helium services
+   <message name="IDS_SETTINGS_HELIUM_SERVICES_OVERRIDE" desc="Text input for overriding the kaguya services server">
+     Use your own instance of kaguya services
    </message>
 --- a/chrome/browser/resources/settings/privacy_page/services_page.html
 +++ b/chrome/browser/resources/settings/privacy_page/services_page.html

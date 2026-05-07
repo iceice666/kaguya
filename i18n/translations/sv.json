@@ -1,18 +1,18 @@
 [
   {
     "name": "IDS_SETTINGS_PERFORMANCE_MEMORY_SAVER_MODE_SETTING_DESCRIPTION",
-    "source": "Helium frees up memory from inactive tabs. This gives active tabs and other apps more computer resources and keeps Helium fast. Your inactive tabs automatically become active again when you go back to them.",
-    "message": "Helium frigör minne från inaktiva flikar. Detta ger aktiva flikar och andra appar mer datorresurser och håller Helium snabbt. Dina inaktiva flikar blir automatiskt aktiva igen när du går tillbaka till dem."
+    "source": "kaguya frees up memory from inactive tabs. This gives active tabs and other apps more computer resources and keeps kaguya fast. Your inactive tabs automatically become active again when you go back to them.",
+    "message": "kaguya frigör minne från inaktiva flikar. Detta ger aktiva flikar och andra appar mer datorresurser och håller kaguya snabbt. Dina inaktiva flikar blir automatiskt aktiva igen när du går tillbaka till dem."
   },
   {
     "name": "IDS_SETTINGS_PERFORMANCE_BATTERY_SAVER_MODE_SETTING_DESCRIPTION",
-    "source": "Helium conserves battery power by limiting background activity and visual effects, such as smooth scrolling and video frame rates.",
-    "message": "Helium sparar batterikraft genom att begränsa bakgrundsaktivitet och visuella effekter, som mjuk rullning och videobildfrekvenser."
+    "source": "kaguya conserves battery power by limiting background activity and visual effects, such as smooth scrolling and video frame rates.",
+    "message": "kaguya sparar batterikraft genom att begränsa bakgrundsaktivitet och visuella effekter, som mjuk rullning och videobildfrekvenser."
   },
   {
     "name": "IDS_SETTINGS_PERFORMANCE_PRELOAD_TOGGLE_SUMMARY",
-    "source": "Helium preloads pages which makes browsing and searching faster.",
-    "message": "Helium förladdar sidor vilket gör surfning och sökning snabbare."
+    "source": "kaguya preloads pages which makes browsing and searching faster.",
+    "message": "kaguya förladdar sidor vilket gör surfning och sökning snabbare."
   },
   {
     "name": "IDS_SETTINGS_PERFORMANCE_TAB_DISCARDING_EXCEPTIONS_ADD_DIALOG_HELP",
@@ -31,8 +31,8 @@
   },
   {
     "name": "IDS_IMPORTED_FROM_BOOKMARK_FOLDER",
-    "source": "Imported from <ph name=\"BROWSER_NAME\">$1<ex>Helium</ex></ph>",
-    "message": "Importerat från <ph name=\"BROWSER_NAME\">$1<ex>Helium</ex></ph>"
+    "source": "Imported from <ph name=\"BROWSER_NAME\">$1<ex>kaguya</ex></ph>",
+    "message": "Importerat från <ph name=\"BROWSER_NAME\">$1<ex>kaguya</ex></ph>"
   },
   {
     "name": "IDS_EXTENSIONS_IMPORTER_LOCK_TITLE",
@@ -46,18 +46,18 @@
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES",
-    "source": "Helium services",
-    "message": "Helium-tjänster"
+    "source": "kaguya services",
+    "message": "kaguya-tjänster"
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_DESCRIPTION",
-    "source": "Manage what Helium services are allowed in your browser",
-    "message": "Hantera vilka Helium-tjänster som tillåts i din webbläsare"
+    "source": "Manage what kaguya services are allowed in your browser",
+    "message": "Hantera vilka kaguya-tjänster som tillåts i din webbläsare"
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SCHEMA_NOTICE_TITLE",
-    "source": "Updates to Helium services:",
-    "message": "Uppdateringar av Helium-tjänster:"
+    "source": "Updates to kaguya services:",
+    "message": "Uppdateringar av kaguya-tjänster:"
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SCHEMA_NOTICE_DESCRIPTION",
@@ -71,23 +71,23 @@
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_TOGGLE",
-    "source": "Allow connecting to Helium services",
-    "message": "Tillåt anslutning till Helium-tjänster"
+    "source": "Allow connecting to kaguya services",
+    "message": "Tillåt anslutning till kaguya-tjänster"
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_TOGGLE_DESCRIPTION",
-    "source": "When enabled, Helium will be able to connect to anonymous web services to provide additional functionality. When disabled, additional features will not work.",
-    "message": "När detta är aktiverat kan Helium ansluta till anonyma webbtjänster för att tillhandahålla ytterligare funktioner. När det är inaktiverat fungerar inte de extra funktionerna."
+    "source": "When enabled, kaguya will be able to connect to anonymous web services to provide additional functionality. When disabled, additional features will not work.",
+    "message": "När detta är aktiverat kan kaguya ansluta till anonyma webbtjänster för att tillhandahålla ytterligare funktioner. När det är inaktiverat fungerar inte de extra funktionerna."
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_OVERRIDE",
-    "source": "Use your own instance of Helium services",
-    "message": "Använd din egen instans av Helium-tjänster"
+    "source": "Use your own instance of kaguya services",
+    "message": "Använd din egen instans av kaguya-tjänster"
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_OVERRIDE_DESCRIPTION",
-    "source": "You can host your own instance of Helium services and use it in your browser instead of the default one. HTTPS only.",
-    "message": "Du kan vara värd för din egen instans av Helium-tjänster och använda den i din webbläsare istället för standardinstansen. Endast HTTPS."
+    "source": "You can host your own instance of kaguya services and use it in your browser instead of the default one. HTTPS only.",
+    "message": "Du kan vara värd för din egen instans av kaguya-tjänster och använda den i din webbläsare istället för standardinstansen. Endast HTTPS."
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_OVERRIDE_DESCRIPTION_WARNING",
@@ -96,18 +96,18 @@
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_OVERRIDE_ARIA_LABEL",
-    "source": "Custom origin URL for Helium services",
-    "message": "Anpassad ursprungs-URL för Helium-tjänster"
+    "source": "Custom origin URL for kaguya services",
+    "message": "Anpassad ursprungs-URL för kaguya-tjänster"
   },
   {
     "name": "IDS_APPMENU_TOOLTIP_HELIUM_SERVICES_UPDATE",
-    "source": "Helium services have been updated. Please review the changes.",
+    "source": "kaguya services have been updated. Please review the changes.",
     "message": "Heliumtjänsterna har uppdaterats. Granska ändringarna."
   },
   {
     "name": "IDS_HELIUM_SERVICES_SCHEMA_MENU_ITEM",
-    "source": "Review Helium services updates",
-    "message": "Granska uppdateringar av Helium-tjänster"
+    "source": "Review kaguya services updates",
+    "message": "Granska uppdateringar av kaguya-tjänster"
   },
   {
     "name": "IDS_APP_MENU_BUTTON_HELIUM_SERVICES_UPDATE",
@@ -116,8 +116,8 @@
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_SETUP_PENDING_TEXT",
-    "source": "Helium services are not available until setup is complete to ensure your privacy and consent.",
-    "message": "Helium-tjänster är inte tillgängliga förrän installationen är klar för att säkerställa din integritet och ditt samtycke."
+    "source": "kaguya services are not available until setup is complete to ensure your privacy and consent.",
+    "message": "kaguya-tjänster är inte tillgängliga förrän installationen är klar för att säkerställa din integritet och ditt samtycke."
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_SETUP_PENDING_BUTTON",
@@ -156,8 +156,8 @@
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_EXT_PROXY_TOGGLE_DESCRIPTION",
-    "source": "When enabled, Helium will proxy extension downloads and updates to protect your privacy. When disabled, downloading and updating extensions will not work.",
-    "message": "När detta är aktiverat proxar Helium nedladdningar och uppdateringar av tillägg för att skydda din integritet. När det är inaktiverat fungerar inte nedladdning och uppdatering av tillägg."
+    "source": "When enabled, kaguya will proxy extension downloads and updates to protect your privacy. When disabled, downloading and updating extensions will not work.",
+    "message": "När detta är aktiverat proxar kaguya nedladdningar och uppdateringar av tillägg för att skydda din integritet. När det är inaktiverat fungerar inte nedladdning och uppdatering av tillägg."
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_BANGS_TOGGLE",
@@ -166,13 +166,13 @@
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_BANGS_TOGGLE_DESCRIPTION",
-    "source": "Helium will fetch a list of bangs that help you browse the Internet faster, such as !w or !gh. When disabled, bangs will not work.",
-    "message": "Helium hämtar en lista med bangs som hjälper dig surfa snabbare, till exempel !w eller !gh. När detta är inaktiverat fungerar inte bangs."
+    "source": "kaguya will fetch a list of bangs that help you browse the Internet faster, such as !w or !gh. When disabled, bangs will not work.",
+    "message": "kaguya hämtar en lista med bangs som hjälper dig surfa snabbare, till exempel !w eller !gh. När detta är inaktiverat fungerar inte bangs."
   },
   {
     "name": "IDS_SETTINGS_LANGUAGES_DICTIONARY_DOWNLOAD_FAILED_HELP_HELIUM",
-    "source": "Please check that Helium services are enabled (including spell check downloads) and make sure that the firewall is not blocking downloads from Helium servers.",
-    "message": "Kontrollera att Helium-tjänster är aktiverade (inklusive nedladdning av stavningskontroll) och se till att brandväggen inte blockerar nedladdningar från Helium-servrar."
+    "source": "Please check that kaguya services are enabled (including spell check downloads) and make sure that the firewall is not blocking downloads from kaguya servers.",
+    "message": "Kontrollera att kaguya-tjänster är aktiverade (inklusive nedladdning av stavningskontroll) och se till att brandväggen inte blockerar nedladdningar från kaguya-servrar."
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_SPELLCHECK_TOGGLE",
@@ -181,8 +181,8 @@
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_SPELLCHECK_TOGGLE_DESCRIPTION",
-    "source": "Helium will fetch dictionary files used for spell checking when requested. When disabled, spell checking will not work.",
-    "message": "Helium hämtar ordlistefiler som används för stavningskontroll vid behov. När detta är inaktiverat fungerar inte stavningskontrollen."
+    "source": "kaguya will fetch dictionary files used for spell checking when requested. When disabled, spell checking will not work.",
+    "message": "kaguya hämtar ordlistefiler som används för stavningskontroll vid behov. När detta är inaktiverat fungerar inte stavningskontrollen."
   },
   {
     "name": "IDS_SETTINGS_ABOUT_PAGE_BROWSER_VERSION",
@@ -196,13 +196,13 @@
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_UPDATE_DESCRIPTION",
-    "source": "Helium will automatically download and install browser and component updates as they become available. We recommend keeping this setting enabled to ensure you get the latest features and security updates.",
-    "message": "Helium laddar automatiskt ned och installerar webbläsar- och komponentuppdateringar när de blir tillgängliga. Vi rekommenderar att du håller den här inställningen aktiverad för att få de senaste funktionerna och säkerhetsuppdateringarna."
+    "source": "kaguya will automatically download and install browser and component updates as they become available. We recommend keeping this setting enabled to ensure you get the latest features and security updates.",
+    "message": "kaguya laddar automatiskt ned och installerar webbläsar- och komponentuppdateringar när de blir tillgängliga. Vi rekommenderar att du håller den här inställningen aktiverad för att få de senaste funktionerna och säkerhetsuppdateringarna."
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_UPDATE_DESCRIPTION",
-    "source": "Helium will automatically download and install browser and component updates as they become available. We recommend keeping this setting enabled to ensure you get the latest features and security updates. Automatic core browser updates are not available on this platform yet, but component updates are. Please use external software to keep Helium up to date.",
-    "message": "Helium laddar automatiskt ned och installerar webbläsar- och komponentuppdateringar när de blir tillgängliga. Vi rekommenderar att du håller den här inställningen aktiverad för att få de senaste funktionerna och säkerhetsuppdateringarna. Automatiska kärnuppdateringar av webbläsaren är inte tillgängliga på den här plattformen ännu, men komponentuppdateringar fungerar. Använd extern programvara för att hålla Helium uppdaterat."
+    "source": "kaguya will automatically download and install browser and component updates as they become available. We recommend keeping this setting enabled to ensure you get the latest features and security updates. Automatic core browser updates are not available on this platform yet, but component updates are. Please use external software to keep kaguya up to date.",
+    "message": "kaguya laddar automatiskt ned och installerar webbläsar- och komponentuppdateringar när de blir tillgängliga. Vi rekommenderar att du håller den här inställningen aktiverad för att få de senaste funktionerna och säkerhetsuppdateringarna. Automatiska kärnuppdateringar av webbläsaren är inte tillgängliga på den här plattformen ännu, men komponentuppdateringar fungerar. Använd extern programvara för att hålla kaguya uppdaterat."
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_UBO",
@@ -211,8 +211,8 @@
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_UBO_DESCRIPTION",
-    "source": "Helium will fetch fresh filter lists for uBlock Origin. All requests to lists are proxied to protect your privacy. When disabled, default filter lists will be loaded from local storage, which are only updated along with Helium. Optional filter lists will be requested without proxying.",
-    "message": "Helium hämtar uppdaterade filterlistor för uBlock Origin. Alla förfrågningar till listor proxas för att skydda din integritet. När detta är inaktiverat laddas standardfilterlistor från lokal lagring, vilka bara uppdateras tillsammans med Helium. Valfria filterlistor hämtas utan proxning."
+    "source": "kaguya will fetch fresh filter lists for uBlock Origin. All requests to lists are proxied to protect your privacy. When disabled, default filter lists will be loaded from local storage, which are only updated along with kaguya. Optional filter lists will be requested without proxying.",
+    "message": "kaguya hämtar uppdaterade filterlistor för uBlock Origin. Alla förfrågningar till listor proxas för att skydda din integritet. När detta är inaktiverat laddas standardfilterlistor från lokal lagring, vilka bara uppdateras tillsammans med kaguya. Valfria filterlistor hämtas utan proxning."
   },
   {
     "name": "IDS_SETTINGS_NEW_TAB_NEXT_TO_ACTIVE_BUTTON",
@@ -226,8 +226,8 @@
   },
   {
     "name": "IDS_COMPONENTS_SVC_STATUS_ERROR_HELIUM_SERVICES",
-    "source": "Component updates are disabled. See Helium services in settings.",
-    "message": "Komponentuppdateringar är inaktiverade. Se Helium-tjänster i inställningarna."
+    "source": "Component updates are disabled. See kaguya services in settings.",
+    "message": "Komponentuppdateringar är inaktiverade. Se kaguya-tjänster i inställningarna."
   },
   {
     "name": "IDS_TAB_CXMENU_HIBERNATE",
@@ -246,8 +246,8 @@
   },
   {
     "name": "IDS_SETTINGS_ENABLE_DO_NOT_TRACK_DIALOG_TEXT_HELIUM",
-    "source": "Enabling \"Do Not Track\" means that Helium will include a request not to be tracked with your browsing traffic. Whether this request is honored depends on whether a website responds to it and on how it is interpreted. For example, some websites may respond by showing you ads that aren't personalized using your previous browsing data. Many websites may still track you regardless of the request.",
-    "message": "Om du aktiverar \"Do Not Track\" skickar Helium en begäran om att inte spåras med din surftrafik. Om denna begäran respekteras beror på om webbplatsen svarar på den och hur den tolkas. Exempelvis kan vissa webbplatser svara genom att visa annonser som inte är personligt anpassade utifrån din tidigare surfhistorik. Många webbplatser kan ändå spåra dig oavsett begäran."
+    "source": "Enabling \"Do Not Track\" means that kaguya will include a request not to be tracked with your browsing traffic. Whether this request is honored depends on whether a website responds to it and on how it is interpreted. For example, some websites may respond by showing you ads that aren't personalized using your previous browsing data. Many websites may still track you regardless of the request.",
+    "message": "Om du aktiverar \"Do Not Track\" skickar kaguya en begäran om att inte spåras med din surftrafik. Om denna begäran respekteras beror på om webbplatsen svarar på den och hur den tolkas. Exempelvis kan vissa webbplatser svara genom att visa annonser som inte är personligt anpassade utifrån din tidigare surfhistorik. Många webbplatser kan ändå spåra dig oavsett begäran."
   },
   {
     "name": "IDS_SETTINGS_ALLOWED_THIRD_PARTY_COOKIES_DESCRIPTION_HELIUM",
@@ -256,8 +256,8 @@
   },
   {
     "name": "IDS_SETTINGS_SUGGEST_PREF_DESC_HELIUM",
-    "source": "When you type in the address bar, Helium sends what you type to your default search engine to get suggestions. This is off in Incognito.",
-    "message": "När du skriver i adressfältet skickar Helium det du skriver till din standardsökmotor för att få förslag. Detta är avstängt i inkognitoläge."
+    "source": "When you type in the address bar, kaguya sends what you type to your default search engine to get suggestions. This is off in Incognito.",
+    "message": "När du skriver i adressfältet skickar kaguya det du skriver till din standardsökmotor för att få förslag. Detta är avstängt i inkognitoläge."
   },
   {
     "name": "IDS_SETTINGS_SUGGEST_PREF_HELIUM",
@@ -281,8 +281,8 @@
   },
   {
     "name": "IDS_POLICY_SOURCE_HOP",
-    "source": "Helium defaults",
-    "message": "Helium-standardvärden"
+    "source": "kaguya defaults",
+    "message": "kaguya-standardvärden"
   },
   {
     "name": "IDS_ACCNAME_APP_MENU",
@@ -291,8 +291,8 @@
   },
   {
     "name": "IDS_DOWNLOAD_BUBBLE_INTERRUPTED_SUBPAGE_SUMMARY_HELIUM_SERVICES_DISABLED",
-    "source": "Extension downloads are disabled. Enable this feature in Helium services settings and try again.",
-    "message": "Nedladdning av tillägg är inaktiverat. Aktivera den här funktionen i Helium-tjänsternas inställningar och försök igen."
+    "source": "Extension downloads are disabled. Enable this feature in kaguya services settings and try again.",
+    "message": "Nedladdning av tillägg är inaktiverat. Aktivera den här funktionen i kaguya-tjänsternas inställningar och försök igen."
   },
   {
     "name": "IDS_DOWNLOAD_BUBBLE_INTERRUPTED_EXTENSION_DL_DISABLED",
@@ -306,13 +306,13 @@
   },
   {
     "name": "IDS_NEW_TAB_OTR_SUBTITLE_HELIUM",
-    "source": "Helium will not save anything about your browsing in Incognito, but downloads and bookmarks will stick around. Your browsing won't leave any traces on this device, and other users won't be able to see your activity.",
-    "message": "Helium sparar inget om din surfning i inkognitoläge, men nedladdningar och bokmärken finns kvar. Din surfning lämnar inga spår på den här enheten och andra användare kan inte se din aktivitet."
+    "source": "kaguya will not save anything about your browsing in Incognito, but downloads and bookmarks will stick around. Your browsing won't leave any traces on this device, and other users won't be able to see your activity.",
+    "message": "kaguya sparar inget om din surfning i inkognitoläge, men nedladdningar och bokmärken finns kvar. Din surfning lämnar inga spår på den här enheten och andra användare kan inte se din aktivitet."
   },
   {
     "name": "IDS_EXTENSIONS_INSTALL_LOCATION_HELIUM",
-    "source": "Helium component",
-    "message": "Helium-komponent"
+    "source": "kaguya component",
+    "message": "kaguya-komponent"
   },
   {
     "name": "IDS_SETTINGS_BROWSER_LAYOUT",
@@ -416,8 +416,8 @@
   },
   {
     "name": "IDS_SETTINGS_DEFAULT_BROWSER_SECONDARY",
-    "source": "Helium cannot be set as default, because no <ph name=\"DESKTOP_FILENAME\">$1<ex>helium.desktop</ex></ph> file was found in any of: ~/.local/share/applications, /usr/share/applications, /usr/local/share/applications.",
-    "message": "Helium kan inte ställas in som standard eftersom ingen <ph name=\"DESKTOP_FILENAME\">$1<ex>helium.desktop</ex></ph>-fil hittades i någon av: ~/.local/share/applications, /usr/share/applications, /usr/local/share/applications."
+    "source": "kaguya cannot be set as default, because no <ph name=\"DESKTOP_FILENAME\">$1<ex>helium.desktop</ex></ph> file was found in any of: ~/.local/share/applications, /usr/share/applications, /usr/local/share/applications.",
+    "message": "kaguya kan inte ställas in som standard eftersom ingen <ph name=\"DESKTOP_FILENAME\">$1<ex>helium.desktop</ex></ph>-fil hittades i någon av: ~/.local/share/applications, /usr/share/applications, /usr/local/share/applications."
   },
   {
     "name": "IDS_SETTINGS_CHOOSE_CUSTOM_AVATAR_FILE",

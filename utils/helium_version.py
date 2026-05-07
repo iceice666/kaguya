@@ -4,7 +4,7 @@
 # You can use, redistribute, and/or modify this source code under
 # the terms of the GPL-3.0 license that can be found in the LICENSE file.
 """
-Script to generate Helium version numbers
+Script to generate kaguya version numbers
 and inject them into the Chromium build tree.
 """
 

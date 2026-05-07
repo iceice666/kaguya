@@ -1,18 +1,18 @@
 [
   {
     "name": "IDS_SETTINGS_PERFORMANCE_MEMORY_SAVER_MODE_SETTING_DESCRIPTION",
-    "source": "Helium frees up memory from inactive tabs. This gives active tabs and other apps more computer resources and keeps Helium fast. Your inactive tabs automatically become active again when you go back to them.",
-    "message": "Helium ನಿಷ್ಕ್ರಿಯ ಟ್ಯಾಬ್‌ಗಳಿಂದ ಮೆಮೊರಿಯನ್ನು ಮುಕ್ತಗೊಳಿಸುತ್ತದೆ. ಇದು ಸಕ್ರಿಯ ಟ್ಯಾಬ್‌ಗಳಿಗೆ ಮತ್ತು ಇತರ ಅಪ್ಲಿಕೇಶನ್‌ಗಳಿಗೆ ಹೆಚ್ಚಿನ ಕಂಪ್ಯೂಟರ್ ಸಂಪನ್ಮೂಲಗಳನ್ನು ನೀಡುತ್ತದೆ ಮತ್ತು Helium ಅನ್ನು ವೇಗವಾಗಿ ಇಡುತ್ತದೆ. ನೀವು ಹಿಂತಿರುಗಿದಾಗ ನಿಮ್ಮ ನಿಷ್ಕ್ರಿಯ ಟ್ಯಾಬ್‌ಗಳು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಮತ್ತೆ ಸಕ್ರಿಯವಾಗುತ್ತವೆ."
+    "source": "kaguya frees up memory from inactive tabs. This gives active tabs and other apps more computer resources and keeps kaguya fast. Your inactive tabs automatically become active again when you go back to them.",
+    "message": "kaguya ನಿಷ್ಕ್ರಿಯ ಟ್ಯಾಬ್‌ಗಳಿಂದ ಮೆಮೊರಿಯನ್ನು ಮುಕ್ತಗೊಳಿಸುತ್ತದೆ. ಇದು ಸಕ್ರಿಯ ಟ್ಯಾಬ್‌ಗಳಿಗೆ ಮತ್ತು ಇತರ ಅಪ್ಲಿಕೇಶನ್‌ಗಳಿಗೆ ಹೆಚ್ಚಿನ ಕಂಪ್ಯೂಟರ್ ಸಂಪನ್ಮೂಲಗಳನ್ನು ನೀಡುತ್ತದೆ ಮತ್ತು kaguya ಅನ್ನು ವೇಗವಾಗಿ ಇಡುತ್ತದೆ. ನೀವು ಹಿಂತಿರುಗಿದಾಗ ನಿಮ್ಮ ನಿಷ್ಕ್ರಿಯ ಟ್ಯಾಬ್‌ಗಳು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಮತ್ತೆ ಸಕ್ರಿಯವಾಗುತ್ತವೆ."
   },
   {
     "name": "IDS_SETTINGS_PERFORMANCE_BATTERY_SAVER_MODE_SETTING_DESCRIPTION",
-    "source": "Helium conserves battery power by limiting background activity and visual effects, such as smooth scrolling and video frame rates.",
-    "message": "Helium ಹಿನ್ನೆಲೆ ಚಟುವಟಿಕೆ ಮತ್ತು ಸ್ಮೂತ್ ಸ್ಕ್ರೋಲಿಂಗ್ ಹಾಗೂ ವೀಡಿಯೊ ಫ್ರೇಮ್ ದರಗಳಂತಹ ದೃಶ್ಯ ಪರಿಣಾಮಗಳನ್ನು ಮಿತಿಗೊಳಿಸುವ ಮೂಲಕ ಬ್ಯಾಟರಿ ಶಕ್ತಿಯನ್ನು ಉಳಿಸುತ್ತದೆ."
+    "source": "kaguya conserves battery power by limiting background activity and visual effects, such as smooth scrolling and video frame rates.",
+    "message": "kaguya ಹಿನ್ನೆಲೆ ಚಟುವಟಿಕೆ ಮತ್ತು ಸ್ಮೂತ್ ಸ್ಕ್ರೋಲಿಂಗ್ ಹಾಗೂ ವೀಡಿಯೊ ಫ್ರೇಮ್ ದರಗಳಂತಹ ದೃಶ್ಯ ಪರಿಣಾಮಗಳನ್ನು ಮಿತಿಗೊಳಿಸುವ ಮೂಲಕ ಬ್ಯಾಟರಿ ಶಕ್ತಿಯನ್ನು ಉಳಿಸುತ್ತದೆ."
   },
   {
     "name": "IDS_SETTINGS_PERFORMANCE_PRELOAD_TOGGLE_SUMMARY",
-    "source": "Helium preloads pages which makes browsing and searching faster.",
-    "message": "Helium ಪುಟಗಳನ್ನು ಮುಂಚಿತವಾಗಿ ಲೋಡ್ ಮಾಡುತ್ತದೆ, ಇದು ಬ್ರೌಸಿಂಗ್ ಮತ್ತು ಹುಡುಕಾಟವನ್ನು ವೇಗಗೊಳಿಸುತ್ತದೆ."
+    "source": "kaguya preloads pages which makes browsing and searching faster.",
+    "message": "kaguya ಪುಟಗಳನ್ನು ಮುಂಚಿತವಾಗಿ ಲೋಡ್ ಮಾಡುತ್ತದೆ, ಇದು ಬ್ರೌಸಿಂಗ್ ಮತ್ತು ಹುಡುಕಾಟವನ್ನು ವೇಗಗೊಳಿಸುತ್ತದೆ."
   },
   {
     "name": "IDS_SETTINGS_PERFORMANCE_TAB_DISCARDING_EXCEPTIONS_ADD_DIALOG_HELP",
@@ -31,8 +31,8 @@
   },
   {
     "name": "IDS_IMPORTED_FROM_BOOKMARK_FOLDER",
-    "source": "Imported from <ph name=\"BROWSER_NAME\">$1<ex>Helium</ex></ph>",
-    "message": "<ph name=\"BROWSER_NAME\">$1<ex>Helium</ex></ph> ನಿಂದ ಆಮದು ಮಾಡಲಾಗಿದೆ"
+    "source": "Imported from <ph name=\"BROWSER_NAME\">$1<ex>kaguya</ex></ph>",
+    "message": "<ph name=\"BROWSER_NAME\">$1<ex>kaguya</ex></ph> ನಿಂದ ಆಮದು ಮಾಡಲಾಗಿದೆ"
   },
   {
     "name": "IDS_EXTENSIONS_IMPORTER_LOCK_TITLE",
@@ -46,18 +46,18 @@
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES",
-    "source": "Helium services",
-    "message": "Helium ಸೇವೆಗಳು"
+    "source": "kaguya services",
+    "message": "kaguya ಸೇವೆಗಳು"
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_DESCRIPTION",
-    "source": "Manage what Helium services are allowed in your browser",
-    "message": "ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಲ್ಲಿ ಯಾವ Helium ಸೇವೆಗಳನ್ನು ಅನುಮತಿಸಲಾಗಿದೆ ಎಂಬುದನ್ನು ನಿರ್ವಹಿಸಿ"
+    "source": "Manage what kaguya services are allowed in your browser",
+    "message": "ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಲ್ಲಿ ಯಾವ kaguya ಸೇವೆಗಳನ್ನು ಅನುಮತಿಸಲಾಗಿದೆ ಎಂಬುದನ್ನು ನಿರ್ವಹಿಸಿ"
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SCHEMA_NOTICE_TITLE",
-    "source": "Updates to Helium services:",
-    "message": "Helium ಸೇವೆಗಳ ನವೀಕರಣಗಳು:"
+    "source": "Updates to kaguya services:",
+    "message": "kaguya ಸೇವೆಗಳ ನವೀಕರಣಗಳು:"
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SCHEMA_NOTICE_DESCRIPTION",
@@ -71,23 +71,23 @@
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_TOGGLE",
-    "source": "Allow connecting to Helium services",
-    "message": "Helium ಸೇವೆಗಳಿಗೆ ಸಂಪರ್ಕಿಸಲು ಅನುಮತಿಸಿ"
+    "source": "Allow connecting to kaguya services",
+    "message": "kaguya ಸೇವೆಗಳಿಗೆ ಸಂಪರ್ಕಿಸಲು ಅನುಮತಿಸಿ"
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_TOGGLE_DESCRIPTION",
-    "source": "When enabled, Helium will be able to connect to anonymous web services to provide additional functionality. When disabled, additional features will not work.",
-    "message": "ಸಕ್ರಿಯಗೊಳಿಸಿದಾಗ, ಹೆಚ್ಚುವರಿ ಕಾರ್ಯಚಟುವಟಿಕೆಯನ್ನು ಒದಗಿಸಲು Helium ಅನಾಮಧೇಯ ವೆಬ್ ಸೇವೆಗಳಿಗೆ ಸಂಪರ್ಕಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದಾಗ, ಹೆಚ್ಚುವರಿ ವೈಶಿಷ್ಟ್ಯಗಳು ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ."
+    "source": "When enabled, kaguya will be able to connect to anonymous web services to provide additional functionality. When disabled, additional features will not work.",
+    "message": "ಸಕ್ರಿಯಗೊಳಿಸಿದಾಗ, ಹೆಚ್ಚುವರಿ ಕಾರ್ಯಚಟುವಟಿಕೆಯನ್ನು ಒದಗಿಸಲು kaguya ಅನಾಮಧೇಯ ವೆಬ್ ಸೇವೆಗಳಿಗೆ ಸಂಪರ್ಕಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದಾಗ, ಹೆಚ್ಚುವರಿ ವೈಶಿಷ್ಟ್ಯಗಳು ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ."
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_OVERRIDE",
-    "source": "Use your own instance of Helium services",
-    "message": "ನಿಮ್ಮ ಸ್ವಂತ Helium ಸೇವೆಗಳ ನಿದರ್ಶನವನ್ನು ಬಳಸಿ"
+    "source": "Use your own instance of kaguya services",
+    "message": "ನಿಮ್ಮ ಸ್ವಂತ kaguya ಸೇವೆಗಳ ನಿದರ್ಶನವನ್ನು ಬಳಸಿ"
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_OVERRIDE_DESCRIPTION",
-    "source": "You can host your own instance of Helium services and use it in your browser instead of the default one. HTTPS only.",
-    "message": "ನೀವು ನಿಮ್ಮ ಸ್ವಂತ Helium ಸೇವೆಗಳ ನಿದರ್ಶನವನ್ನು ಹೋಸ್ಟ್ ಮಾಡಬಹುದು ಮತ್ತು ಡೀಫಾಲ್ಟ್ ಬದಲಿಗೆ ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಲ್ಲಿ ಅದನ್ನು ಬಳಸಬಹುದು. HTTPS ಮಾತ್ರ."
+    "source": "You can host your own instance of kaguya services and use it in your browser instead of the default one. HTTPS only.",
+    "message": "ನೀವು ನಿಮ್ಮ ಸ್ವಂತ kaguya ಸೇವೆಗಳ ನಿದರ್ಶನವನ್ನು ಹೋಸ್ಟ್ ಮಾಡಬಹುದು ಮತ್ತು ಡೀಫಾಲ್ಟ್ ಬದಲಿಗೆ ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಲ್ಲಿ ಅದನ್ನು ಬಳಸಬಹುದು. HTTPS ಮಾತ್ರ."
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_OVERRIDE_DESCRIPTION_WARNING",
@@ -96,18 +96,18 @@
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_OVERRIDE_ARIA_LABEL",
-    "source": "Custom origin URL for Helium services",
-    "message": "Helium ಸೇವೆಗಳಿಗಾಗಿ ಕಸ್ಟಮ್ ಮೂಲ URL"
+    "source": "Custom origin URL for kaguya services",
+    "message": "kaguya ಸೇವೆಗಳಿಗಾಗಿ ಕಸ್ಟಮ್ ಮೂಲ URL"
   },
   {
     "name": "IDS_APPMENU_TOOLTIP_HELIUM_SERVICES_UPDATE",
-    "source": "Helium services have been updated. Please review the changes.",
-    "message": "Helium ಸೇವೆಗಳು ನವೀಕರಿಸಲ್ಪಟ್ಟಿವೆ. ದಯವಿಟ್ಟು ಬದಲಾವಣೆಗಳನ್ನು ಪರಿಶೀಲಿಸಿ."
+    "source": "kaguya services have been updated. Please review the changes.",
+    "message": "kaguya ಸೇವೆಗಳು ನವೀಕರಿಸಲ್ಪಟ್ಟಿವೆ. ದಯವಿಟ್ಟು ಬದಲಾವಣೆಗಳನ್ನು ಪರಿಶೀಲಿಸಿ."
   },
   {
     "name": "IDS_HELIUM_SERVICES_SCHEMA_MENU_ITEM",
-    "source": "Review Helium services updates",
-    "message": "Helium ಸೇವೆಗಳ ನವೀಕರಣಗಳನ್ನು ಪರಿಶೀಲಿಸಿ"
+    "source": "Review kaguya services updates",
+    "message": "kaguya ಸೇವೆಗಳ ನವೀಕರಣಗಳನ್ನು ಪರಿಶೀಲಿಸಿ"
   },
   {
     "name": "IDS_APP_MENU_BUTTON_HELIUM_SERVICES_UPDATE",
@@ -116,8 +116,8 @@
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_SETUP_PENDING_TEXT",
-    "source": "Helium services are not available until setup is complete to ensure your privacy and consent.",
-    "message": "ನಿಮ್ಮ ಗೌಪ್ಯತೆ ಮತ್ತು ಒಪ್ಪಿಗೆಯನ್ನು ಖಚಿತಪಡಿಸಲು ಸೆಟಪ್ ಪೂರ್ಣಗೊಳ್ಳುವವರೆಗೆ Helium ಸೇವೆಗಳು ಲಭ್ಯವಿಲ್ಲ."
+    "source": "kaguya services are not available until setup is complete to ensure your privacy and consent.",
+    "message": "ನಿಮ್ಮ ಗೌಪ್ಯತೆ ಮತ್ತು ಒಪ್ಪಿಗೆಯನ್ನು ಖಚಿತಪಡಿಸಲು ಸೆಟಪ್ ಪೂರ್ಣಗೊಳ್ಳುವವರೆಗೆ kaguya ಸೇವೆಗಳು ಲಭ್ಯವಿಲ್ಲ."
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_SETUP_PENDING_BUTTON",
@@ -156,8 +156,8 @@
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_EXT_PROXY_TOGGLE_DESCRIPTION",
-    "source": "When enabled, Helium will proxy extension downloads and updates to protect your privacy. When disabled, downloading and updating extensions will not work.",
-    "message": "ಸಕ್ರಿಯಗೊಳಿಸಿದಾಗ, ನಿಮ್ಮ ಗೌಪ್ಯತೆಯನ್ನು ರಕ್ಷಿಸಲು Helium ವಿಸ್ತರಣೆ ಡೌನ್‌ಲೋಡ್‌ಗಳು ಮತ್ತು ನವೀಕರಣಗಳನ್ನು ಪ್ರಾಕ್ಸಿ ಮಾಡುತ್ತದೆ. ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದಾಗ, ವಿಸ್ತರಣೆಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡುವುದು ಮತ್ತು ನವೀಕರಿಸುವುದು ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ."
+    "source": "When enabled, kaguya will proxy extension downloads and updates to protect your privacy. When disabled, downloading and updating extensions will not work.",
+    "message": "ಸಕ್ರಿಯಗೊಳಿಸಿದಾಗ, ನಿಮ್ಮ ಗೌಪ್ಯತೆಯನ್ನು ರಕ್ಷಿಸಲು kaguya ವಿಸ್ತರಣೆ ಡೌನ್‌ಲೋಡ್‌ಗಳು ಮತ್ತು ನವೀಕರಣಗಳನ್ನು ಪ್ರಾಕ್ಸಿ ಮಾಡುತ್ತದೆ. ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದಾಗ, ವಿಸ್ತರಣೆಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡುವುದು ಮತ್ತು ನವೀಕರಿಸುವುದು ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ."
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_BANGS_TOGGLE",
@@ -166,13 +166,13 @@
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_BANGS_TOGGLE_DESCRIPTION",
-    "source": "Helium will fetch a list of bangs that help you browse the Internet faster, such as !w or !gh. When disabled, bangs will not work.",
-    "message": "Helium ನಿಮಗೆ ಇಂಟರ್ನೆಟ್ ಅನ್ನು ವೇಗವಾಗಿ ಬ್ರೌಸ್ ಮಾಡಲು ಸಹಾಯ ಮಾಡುವ !w ಅಥವಾ !gh ನಂತಹ bangs ಪಟ್ಟಿಯನ್ನು ಪಡೆಯುತ್ತದೆ. ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದಾಗ, bangs ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ."
+    "source": "kaguya will fetch a list of bangs that help you browse the Internet faster, such as !w or !gh. When disabled, bangs will not work.",
+    "message": "kaguya ನಿಮಗೆ ಇಂಟರ್ನೆಟ್ ಅನ್ನು ವೇಗವಾಗಿ ಬ್ರೌಸ್ ಮಾಡಲು ಸಹಾಯ ಮಾಡುವ !w ಅಥವಾ !gh ನಂತಹ bangs ಪಟ್ಟಿಯನ್ನು ಪಡೆಯುತ್ತದೆ. ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದಾಗ, bangs ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ."
   },
   {
     "name": "IDS_SETTINGS_LANGUAGES_DICTIONARY_DOWNLOAD_FAILED_HELP_HELIUM",
-    "source": "Please check that Helium services are enabled (including spell check downloads) and make sure that the firewall is not blocking downloads from Helium servers.",
-    "message": "ದಯವಿಟ್ಟು Helium ಸೇವೆಗಳು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆಯೇ (ಕಾಗುಣಿತ ಪರಿಶೀಲನೆ ಡೌನ್‌ಲೋಡ್‌ಗಳನ್ನು ಒಳಗೊಂಡಂತೆ) ಎಂಬುದನ್ನು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಫೈರ್‌ವಾಲ್ Helium ಸರ್ವರ್‌ಗಳಿಂದ ಡೌನ್‌ಲೋಡ್‌ಗಳನ್ನು ನಿರ್ಬಂಧಿಸುತ್ತಿಲ್ಲ ಎಂಬುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
+    "source": "Please check that kaguya services are enabled (including spell check downloads) and make sure that the firewall is not blocking downloads from kaguya servers.",
+    "message": "ದಯವಿಟ್ಟು kaguya ಸೇವೆಗಳು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆಯೇ (ಕಾಗುಣಿತ ಪರಿಶೀಲನೆ ಡೌನ್‌ಲೋಡ್‌ಗಳನ್ನು ಒಳಗೊಂಡಂತೆ) ಎಂಬುದನ್ನು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಫೈರ್‌ವಾಲ್ kaguya ಸರ್ವರ್‌ಗಳಿಂದ ಡೌನ್‌ಲೋಡ್‌ಗಳನ್ನು ನಿರ್ಬಂಧಿಸುತ್ತಿಲ್ಲ ಎಂಬುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_SPELLCHECK_TOGGLE",
@@ -181,8 +181,8 @@
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_SPELLCHECK_TOGGLE_DESCRIPTION",
-    "source": "Helium will fetch dictionary files used for spell checking when requested. When disabled, spell checking will not work.",
-    "message": "ವಿನಂತಿಸಿದಾಗ Helium ಕಾಗುಣಿತ ಪರಿಶೀಲನೆಗಾಗಿ ಬಳಸಲಾಗುವ ನಿಘಂಟು ಫೈಲ್‌ಗಳನ್ನು ಪಡೆಯುತ್ತದೆ. ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದಾಗ, ಕಾಗುಣಿತ ಪರಿಶೀಲನೆ ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ."
+    "source": "kaguya will fetch dictionary files used for spell checking when requested. When disabled, spell checking will not work.",
+    "message": "ವಿನಂತಿಸಿದಾಗ kaguya ಕಾಗುಣಿತ ಪರಿಶೀಲನೆಗಾಗಿ ಬಳಸಲಾಗುವ ನಿಘಂಟು ಫೈಲ್‌ಗಳನ್ನು ಪಡೆಯುತ್ತದೆ. ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದಾಗ, ಕಾಗುಣಿತ ಪರಿಶೀಲನೆ ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ."
   },
   {
     "name": "IDS_SETTINGS_ABOUT_PAGE_BROWSER_VERSION",
@@ -196,13 +196,13 @@
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_UPDATE_DESCRIPTION",
-    "source": "Helium will automatically download and install browser and component updates as they become available. We recommend keeping this setting enabled to ensure you get the latest features and security updates.",
-    "message": "Helium ಬ್ರೌಸರ್ ಮತ್ತು ಘಟಕ ನವೀಕರಣಗಳು ಲಭ್ಯವಾದಾಗ ಅವುಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡುತ್ತದೆ ಮತ್ತು ಸ್ಥಾಪಿಸುತ್ತದೆ. ಇತ್ತೀಚಿನ ವೈಶಿಷ್ಟ್ಯಗಳು ಮತ್ತು ಭದ್ರತಾ ನವೀಕರಣಗಳನ್ನು ಪಡೆಯಲು ಈ ಸೆಟ್ಟಿಂಗ್ ಅನ್ನು ಸಕ್ರಿಯವಾಗಿಡಲು ನಾವು ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆ."
+    "source": "kaguya will automatically download and install browser and component updates as they become available. We recommend keeping this setting enabled to ensure you get the latest features and security updates.",
+    "message": "kaguya ಬ್ರೌಸರ್ ಮತ್ತು ಘಟಕ ನವೀಕರಣಗಳು ಲಭ್ಯವಾದಾಗ ಅವುಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡುತ್ತದೆ ಮತ್ತು ಸ್ಥಾಪಿಸುತ್ತದೆ. ಇತ್ತೀಚಿನ ವೈಶಿಷ್ಟ್ಯಗಳು ಮತ್ತು ಭದ್ರತಾ ನವೀಕರಣಗಳನ್ನು ಪಡೆಯಲು ಈ ಸೆಟ್ಟಿಂಗ್ ಅನ್ನು ಸಕ್ರಿಯವಾಗಿಡಲು ನಾವು ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆ."
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_UPDATE_DESCRIPTION",
-    "source": "Helium will automatically download and install browser and component updates as they become available. We recommend keeping this setting enabled to ensure you get the latest features and security updates. Automatic core browser updates are not available on this platform yet, but component updates are. Please use external software to keep Helium up to date.",
-    "message": "Helium ಬ್ರೌಸರ್ ಮತ್ತು ಘಟಕ ನವೀಕರಣಗಳು ಲಭ್ಯವಾದಾಗ ಅವುಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡುತ್ತದೆ ಮತ್ತು ಸ್ಥಾಪಿಸುತ್ತದೆ. ಇತ್ತೀಚಿನ ವೈಶಿಷ್ಟ್ಯಗಳು ಮತ್ತು ಭದ್ರತಾ ನವೀಕರಣಗಳನ್ನು ಪಡೆಯಲು ಈ ಸೆಟ್ಟಿಂಗ್ ಅನ್ನು ಸಕ್ರಿಯವಾಗಿಡಲು ನಾವು ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆ. ಸ್ವಯಂಚಾಲಿತ ಕೋರ್ ಬ್ರೌಸರ್ ನವೀಕರಣಗಳು ಈ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ನಲ್ಲಿ ಇನ್ನೂ ಲಭ್ಯವಿಲ್ಲ, ಆದರೆ ಘಟಕ ನವೀಕರಣಗಳು ಲಭ್ಯವಿವೆ. Helium ಅನ್ನು ನವೀಕೃತವಾಗಿ ಇಡಲು ದಯವಿಟ್ಟು ಬಾಹ್ಯ ಸಾಫ್ಟ್‌ವೇರ್ ಬಳಸಿ."
+    "source": "kaguya will automatically download and install browser and component updates as they become available. We recommend keeping this setting enabled to ensure you get the latest features and security updates. Automatic core browser updates are not available on this platform yet, but component updates are. Please use external software to keep kaguya up to date.",
+    "message": "kaguya ಬ್ರೌಸರ್ ಮತ್ತು ಘಟಕ ನವೀಕರಣಗಳು ಲಭ್ಯವಾದಾಗ ಅವುಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡುತ್ತದೆ ಮತ್ತು ಸ್ಥಾಪಿಸುತ್ತದೆ. ಇತ್ತೀಚಿನ ವೈಶಿಷ್ಟ್ಯಗಳು ಮತ್ತು ಭದ್ರತಾ ನವೀಕರಣಗಳನ್ನು ಪಡೆಯಲು ಈ ಸೆಟ್ಟಿಂಗ್ ಅನ್ನು ಸಕ್ರಿಯವಾಗಿಡಲು ನಾವು ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆ. ಸ್ವಯಂಚಾಲಿತ ಕೋರ್ ಬ್ರೌಸರ್ ನವೀಕರಣಗಳು ಈ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ನಲ್ಲಿ ಇನ್ನೂ ಲಭ್ಯವಿಲ್ಲ, ಆದರೆ ಘಟಕ ನವೀಕರಣಗಳು ಲಭ್ಯವಿವೆ. kaguya ಅನ್ನು ನವೀಕೃತವಾಗಿ ಇಡಲು ದಯವಿಟ್ಟು ಬಾಹ್ಯ ಸಾಫ್ಟ್‌ವೇರ್ ಬಳಸಿ."
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_UBO",
@@ -211,8 +211,8 @@
   },
   {
     "name": "IDS_SETTINGS_HELIUM_SERVICES_UBO_DESCRIPTION",
-    "source": "Helium will fetch fresh filter lists for uBlock Origin. All requests to lists are proxied to protect your privacy. When disabled, default filter lists will be loaded from local storage, which are only updated along with Helium. Optional filter lists will be requested without proxying.",
-    "message": "Helium uBlock Origin ಗಾಗಿ ತಾಜಾ ಫಿಲ್ಟರ್ ಪಟ್ಟಿಗಳನ್ನು ಪಡೆಯುತ್ತದೆ. ನಿಮ್ಮ ಗೌಪ್ಯತೆಯನ್ನು ರಕ್ಷಿಸಲು ಎಲ್ಲಾ ಪಟ್ಟಿ ವಿನಂತಿಗಳನ್ನು ಪ್ರಾಕ್ಸಿ ಮಾಡಲಾಗುತ್ತದೆ. ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದಾಗ, ಡೀಫಾಲ್ಟ್ ಫಿಲ್ಟರ್ ಪಟ್ಟಿಗಳನ್ನು ಸ್ಥಳೀಯ ಸಂಗ್ರಹಣೆಯಿಂದ ಲೋಡ್ ಮಾಡಲಾಗುತ್ತದೆ, ಅವುಗಳು Helium ಜೊತೆಗೆ ಮಾತ್ರ ನವೀಕರಿಸಲಾಗುತ್ತದೆ. ಐಚ್ಛಿಕ ಫಿಲ್ಟರ್ ಪಟ್ಟಿಗಳನ್ನು ಪ್ರಾಕ್ಸಿ ಇಲ್ಲದೆ ವಿನಂತಿಸಲಾಗುತ್ತದೆ."
+    "source": "kaguya will fetch fresh filter lists for uBlock Origin. All requests to lists are proxied to protect your privacy. When disabled, default filter lists will be loaded from local storage, which are only updated along with kaguya. Optional filter lists will be requested without proxying.",
+    "message": "kaguya uBlock Origin ಗಾಗಿ ತಾಜಾ ಫಿಲ್ಟರ್ ಪಟ್ಟಿಗಳನ್ನು ಪಡೆಯುತ್ತದೆ. ನಿಮ್ಮ ಗೌಪ್ಯತೆಯನ್ನು ರಕ್ಷಿಸಲು ಎಲ್ಲಾ ಪಟ್ಟಿ ವಿನಂತಿಗಳನ್ನು ಪ್ರಾಕ್ಸಿ ಮಾಡಲಾಗುತ್ತದೆ. ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದಾಗ, ಡೀಫಾಲ್ಟ್ ಫಿಲ್ಟರ್ ಪಟ್ಟಿಗಳನ್ನು ಸ್ಥಳೀಯ ಸಂಗ್ರಹಣೆಯಿಂದ ಲೋಡ್ ಮಾಡಲಾಗುತ್ತದೆ, ಅವುಗಳು kaguya ಜೊತೆಗೆ ಮಾತ್ರ ನವೀಕರಿಸಲಾಗುತ್ತದೆ. ಐಚ್ಛಿಕ ಫಿಲ್ಟರ್ ಪಟ್ಟಿಗಳನ್ನು ಪ್ರಾಕ್ಸಿ ಇಲ್ಲದೆ ವಿನಂತಿಸಲಾಗುತ್ತದೆ."
   },
   {
     "name": "IDS_SETTINGS_NEW_TAB_NEXT_TO_ACTIVE_BUTTON",
@@ -226,8 +226,8 @@
   },
   {
     "name": "IDS_COMPONENTS_SVC_STATUS_ERROR_HELIUM_SERVICES",
-    "source": "Component updates are disabled. See Helium services in settings.",
-    "message": "ಘಟಕ ನವೀಕರಣಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ. ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ Helium ಸೇವೆಗಳನ್ನು ನೋಡಿ."
+    "source": "Component updates are disabled. See kaguya services in settings.",
+    "message": "ಘಟಕ ನವೀಕರಣಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ. ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ kaguya ಸೇವೆಗಳನ್ನು ನೋಡಿ."
   },
   {
     "name": "IDS_TAB_CXMENU_HIBERNATE",
@@ -246,8 +246,8 @@
   },
   {
     "name": "IDS_SETTINGS_ENABLE_DO_NOT_TRACK_DIALOG_TEXT_HELIUM",
-    "source": "Enabling \"Do Not Track\" means that Helium will include a request not to be tracked with your browsing traffic. Whether this request is honored depends on whether a website responds to it and on how it is interpreted. For example, some websites may respond by showing you ads that aren't personalized using your previous browsing data. Many websites may still track you regardless of the request.",
-    "message": "\"Do Not Track\" ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸುವುದು ಎಂದರೆ ನಿಮ್ಮ ಬ್ರೌಸಿಂಗ್ ಟ್ರಾಫಿಕ್‌ನೊಂದಿಗೆ ಟ್ರ್ಯಾಕ್ ಮಾಡಬೇಡಿ ಎಂಬ ವಿನಂತಿಯನ್ನು Helium ಸೇರಿಸುತ್ತದೆ. ಈ ವಿನಂತಿಯನ್ನು ಗೌರವಿಸಲಾಗುತ್ತದೆಯೇ ಎಂಬುದು ವೆಬ್‌ಸೈಟ್ ಅದಕ್ಕೆ ಪ್ರತಿಕ್ರಿಯಿಸುತ್ತದೆಯೇ ಮತ್ತು ಅದನ್ನು ಹೇಗೆ ಅರ್ಥೈಸಲಾಗುತ್ತದೆ ಎಂಬುದರ ಮೇಲೆ ಅವಲಂಬಿತವಾಗಿದೆ. ಉದಾಹರಣೆಗೆ, ಕೆಲವು ವೆಬ್‌ಸೈಟ್‌ಗಳು ನಿಮ್ಮ ಹಿಂದಿನ ಬ್ರೌಸಿಂಗ್ ಡೇಟಾವನ್ನು ಬಳಸಿ ವೈಯಕ್ತೀಕರಿಸದ ಜಾಹೀರಾತುಗಳನ್ನು ತೋರಿಸುವ ಮೂಲಕ ಪ್ರತಿಕ್ರಿಯಿಸಬಹುದು. ಅನೇಕ ವೆಬ್‌ಸೈಟ್‌ಗಳು ವಿನಂತಿಯ ಹೊರತಾಗಿಯೂ ನಿಮ್ಮನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡುವುದನ್ನು ಮುಂದುವರಿಸಬಹುದು."
+    "source": "Enabling \"Do Not Track\" means that kaguya will include a request not to be tracked with your browsing traffic. Whether this request is honored depends on whether a website responds to it and on how it is interpreted. For example, some websites may respond by showing you ads that aren't personalized using your previous browsing data. Many websites may still track you regardless of the request.",
+    "message": "\"Do Not Track\" ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸುವುದು ಎಂದರೆ ನಿಮ್ಮ ಬ್ರೌಸಿಂಗ್ ಟ್ರಾಫಿಕ್‌ನೊಂದಿಗೆ ಟ್ರ್ಯಾಕ್ ಮಾಡಬೇಡಿ ಎಂಬ ವಿನಂತಿಯನ್ನು kaguya ಸೇರಿಸುತ್ತದೆ. ಈ ವಿನಂತಿಯನ್ನು ಗೌರವಿಸಲಾಗುತ್ತದೆಯೇ ಎಂಬುದು ವೆಬ್‌ಸೈಟ್ ಅದಕ್ಕೆ ಪ್ರತಿಕ್ರಿಯಿಸುತ್ತದೆಯೇ ಮತ್ತು ಅದನ್ನು ಹೇಗೆ ಅರ್ಥೈಸಲಾಗುತ್ತದೆ ಎಂಬುದರ ಮೇಲೆ ಅವಲಂಬಿತವಾಗಿದೆ. ಉದಾಹರಣೆಗೆ, ಕೆಲವು ವೆಬ್‌ಸೈಟ್‌ಗಳು ನಿಮ್ಮ ಹಿಂದಿನ ಬ್ರೌಸಿಂಗ್ ಡೇಟಾವನ್ನು ಬಳಸಿ ವೈಯಕ್ತೀಕರಿಸದ ಜಾಹೀರಾತುಗಳನ್ನು ತೋರಿಸುವ ಮೂಲಕ ಪ್ರತಿಕ್ರಿಯಿಸಬಹುದು. ಅನೇಕ ವೆಬ್‌ಸೈಟ್‌ಗಳು ವಿನಂತಿಯ ಹೊರತಾಗಿಯೂ ನಿಮ್ಮನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡುವುದನ್ನು ಮುಂದುವರಿಸಬಹುದು."
   },
   {
     "name": "IDS_SETTINGS_ALLOWED_THIRD_PARTY_COOKIES_DESCRIPTION_HELIUM",
@@ -256,8 +256,8 @@
   },
   {
     "name": "IDS_SETTINGS_SUGGEST_PREF_DESC_HELIUM",
-    "source": "When you type in the address bar, Helium sends what you type to your default search engine to get suggestions. This is off in Incognito.",
-    "message": "ನೀವು ವಿಳಾಸ ಪಟ್ಟಿಯಲ್ಲಿ ಟೈಪ್ ಮಾಡಿದಾಗ, ಸಲಹೆಗಳನ್ನು ಪಡೆಯಲು Helium ನೀವು ಟೈಪ್ ಮಾಡುವುದನ್ನು ನಿಮ್ಮ ಡೀಫಾಲ್ಟ್ ಸರ್ಚ್ ಎಂಜಿನ್‌ಗೆ ಕಳುಹಿಸುತ್ತದೆ. ಅಜ್ಞಾತ ಮೋಡ್‌ನಲ್ಲಿ ಇದು ಆಫ್ ಆಗಿರುತ್ತದೆ."
+    "source": "When you type in the address bar, kaguya sends what you type to your default search engine to get suggestions. This is off in Incognito.",
+    "message": "ನೀವು ವಿಳಾಸ ಪಟ್ಟಿಯಲ್ಲಿ ಟೈಪ್ ಮಾಡಿದಾಗ, ಸಲಹೆಗಳನ್ನು ಪಡೆಯಲು kaguya ನೀವು ಟೈಪ್ ಮಾಡುವುದನ್ನು ನಿಮ್ಮ ಡೀಫಾಲ್ಟ್ ಸರ್ಚ್ ಎಂಜಿನ್‌ಗೆ ಕಳುಹಿಸುತ್ತದೆ. ಅಜ್ಞಾತ ಮೋಡ್‌ನಲ್ಲಿ ಇದು ಆಫ್ ಆಗಿರುತ್ತದೆ."
   },
   {
     "name": "IDS_SETTINGS_SUGGEST_PREF_HELIUM",
@@ -281,8 +281,8 @@
   },
   {
     "name": "IDS_POLICY_SOURCE_HOP",
-    "source": "Helium defaults",
-    "message": "Helium ಡೀಫಾಲ್ಟ್‌ಗಳು"
+    "source": "kaguya defaults",
+    "message": "kaguya ಡೀಫಾಲ್ಟ್‌ಗಳು"
   },
   {
     "name": "IDS_ACCNAME_APP_MENU",
@@ -291,8 +291,8 @@
   },
   {
     "name": "IDS_DOWNLOAD_BUBBLE_INTERRUPTED_SUBPAGE_SUMMARY_HELIUM_SERVICES_DISABLED",
-    "source": "Extension downloads are disabled. Enable this feature in Helium services settings and try again.",
-    "message": "ವಿಸ್ತರಣೆ ಡೌನ್‌ಲೋಡ್‌ಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ. Helium ಸೇವೆಗಳ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಈ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+    "source": "Extension downloads are disabled. Enable this feature in kaguya services settings and try again.",
+    "message": "ವಿಸ್ತರಣೆ ಡೌನ್‌ಲೋಡ್‌ಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ. kaguya ಸೇವೆಗಳ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಈ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
   },
   {
     "name": "IDS_DOWNLOAD_BUBBLE_INTERRUPTED_EXTENSION_DL_DISABLED",
@@ -306,13 +306,13 @@
   },
   {
     "name": "IDS_NEW_TAB_OTR_SUBTITLE_HELIUM",
-    "source": "Helium will not save anything about your browsing in Incognito, but downloads and bookmarks will stick around. Your browsing won't leave any traces on this device, and other users won't be able to see your activity.",
-    "message": "ಅಜ್ಞಾತ ಮೋಡ್‌ನಲ್ಲಿ ನಿಮ್ಮ ಬ್ರೌಸಿಂಗ್ ಬಗ್ಗೆ Helium ಏನನ್ನೂ ಉಳಿಸುವುದಿಲ್ಲ, ಆದರೆ ಡೌನ್‌ಲೋಡ್‌ಗಳು ಮತ್ತು ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು ಉಳಿಯುತ್ತವೆ. ನಿಮ್ಮ ಬ್ರೌಸಿಂಗ್ ಈ ಸಾಧನದಲ್ಲಿ ಯಾವುದೇ ಕುರುಹುಗಳನ್ನು ಬಿಡುವುದಿಲ್ಲ, ಮತ್ತು ಇತರ ಬಳಕೆದಾರರು ನಿಮ್ಮ ಚಟುವಟಿಕೆಯನ್ನು ನೋಡಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ."
+    "source": "kaguya will not save anything about your browsing in Incognito, but downloads and bookmarks will stick around. Your browsing won't leave any traces on this device, and other users won't be able to see your activity.",
+    "message": "ಅಜ್ಞಾತ ಮೋಡ್‌ನಲ್ಲಿ ನಿಮ್ಮ ಬ್ರೌಸಿಂಗ್ ಬಗ್ಗೆ kaguya ಏನನ್ನೂ ಉಳಿಸುವುದಿಲ್ಲ, ಆದರೆ ಡೌನ್‌ಲೋಡ್‌ಗಳು ಮತ್ತು ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು ಉಳಿಯುತ್ತವೆ. ನಿಮ್ಮ ಬ್ರೌಸಿಂಗ್ ಈ ಸಾಧನದಲ್ಲಿ ಯಾವುದೇ ಕುರುಹುಗಳನ್ನು ಬಿಡುವುದಿಲ್ಲ, ಮತ್ತು ಇತರ ಬಳಕೆದಾರರು ನಿಮ್ಮ ಚಟುವಟಿಕೆಯನ್ನು ನೋಡಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ."
   },
   {
     "name": "IDS_EXTENSIONS_INSTALL_LOCATION_HELIUM",
-    "source": "Helium component",
-    "message": "Helium ಘಟಕ"
+    "source": "kaguya component",
+    "message": "kaguya ಘಟಕ"
   },
   {
     "name": "IDS_SETTINGS_BROWSER_LAYOUT",
@@ -416,8 +416,8 @@
   },
   {
     "name": "IDS_SETTINGS_DEFAULT_BROWSER_SECONDARY",
-    "source": "Helium cannot be set as default, because no <ph name=\"DESKTOP_FILENAME\">$1<ex>helium.desktop</ex></ph> file was found in any of: ~/.local/share/applications, /usr/share/applications, /usr/local/share/applications.",
-    "message": "Helium ಅನ್ನು ಡೀಫಾಲ್ಟ್ ಆಗಿ ಹೊಂದಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ, ಏಕೆಂದರೆ ~/.local/share/applications, /usr/share/applications, /usr/local/share/applications ಯಾವುದರಲ್ಲೂ <ph name=\"DESKTOP_FILENAME\">$1<ex>helium.desktop</ex></ph> ಫೈಲ್ ಕಂಡುಬಂದಿಲ್ಲ."
+    "source": "kaguya cannot be set as default, because no <ph name=\"DESKTOP_FILENAME\">$1<ex>helium.desktop</ex></ph> file was found in any of: ~/.local/share/applications, /usr/share/applications, /usr/local/share/applications.",
+    "message": "kaguya ಅನ್ನು ಡೀಫಾಲ್ಟ್ ಆಗಿ ಹೊಂದಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ, ಏಕೆಂದರೆ ~/.local/share/applications, /usr/share/applications, /usr/local/share/applications ಯಾವುದರಲ್ಲೂ <ph name=\"DESKTOP_FILENAME\">$1<ex>helium.desktop</ex></ph> ಫೈಲ್ ಕಂಡುಬಂದಿಲ್ಲ."
   },
   {
     "name": "IDS_SETTINGS_CHOOSE_CUSTOM_AVATAR_FILE",

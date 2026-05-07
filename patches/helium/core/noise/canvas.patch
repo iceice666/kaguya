@@ -1,5 +1,5 @@
 # Some files in this patch are sourced from Chromium. They were
-# heavily modified to fit Helium's needs.
+# heavily modified to fit kaguya's needs.
 #
 # Chromium's license header is maintained wherever applicable to 
 # respect the original authorship of code.
@@ -47,12 +47,12 @@
 --- a/chrome/browser/helium_flag_entries.h
 +++ b/chrome/browser/helium_flag_entries.h
 @@ -20,4 +20,8 @@
-      "Helium Noise",
-      "Helium's anti-fingerprinting functionality. Adds insignificant noise to various features to deceive fingerprinting scripts. Enabled by default, must be enabled for other anti-fingerprinting features to work. Helium flag.",
+      "kaguya Noise",
+      "kaguya's anti-fingerprinting functionality. Adds insignificant noise to various features to deceive fingerprinting scripts. Enabled by default, must be enabled for other anti-fingerprinting features to work. kaguya flag.",
       kOsAll, FEATURE_VALUE_TYPE(blink::features::kHeliumNoise)},
 +    {helium::kHeliumNoiseCanvasCommandLine,
-+     "[Helium Noise] Canvas pixel noising",
-+     "Adds insignificant noise to canvas pixels during readback to deceive canvas-based fingerprinting. Helium flag.",
++     "[kaguya Noise] Canvas pixel noising",
++     "Adds insignificant noise to canvas pixels during readback to deceive canvas-based fingerprinting. kaguya flag.",
 +     kOsAll, FEATURE_VALUE_TYPE(blink::features::kHeliumNoiseCanvas)},
  #endif  /* CHROME_BROWSER_HELIUM_FLAG_ENTRIES_H_ */
 --- a/third_party/blink/common/features.cc

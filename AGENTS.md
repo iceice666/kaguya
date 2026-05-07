@@ -1,4 +1,4 @@
-# Helium AI Agent Guidelines
+# kaguya AI Agent Guidelines
 
 - We do not permit AI agent usage for new contributors. You must get familiar with the codebase and basic concepts yourself first.
 - This is an unfortunate extreme measure we had to take in an attempt to reduce spam.

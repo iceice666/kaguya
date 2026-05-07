@@ -15,7 +15,7 @@ REPLACEMENT_REGEXES_STR = [
 
     # main replacement(s)
     (r'(\b)chrome://', r'\1helium://'),
-    (r'(?:Google )?Chrom(e|ium)(?!\w)', r'Helium'),
+    (r'(?:Google )?Chrom(e|ium)(?!\w)', r'kaguya'),
 
     # post-replacement cleanup
     (r'((?:Google )?Chrom(e|ium))_unreplace', r'\1'),
@@ -68,7 +68,7 @@ def compute_fp(message):
 
 
 def replace_text(text):
-    """Replaces instances of Chrom(e | ium) with Helium in strings"""
+    """Replaces instances of Chrom(e | ium) with kaguya in strings"""
     had_match = False
     for regex, replacement in REPLACEMENT_REGEXES:
         if regex.search(text):
@@ -89,7 +89,7 @@ def should_skip_tail(elem):
 
 def replace_grit_message(msg):
     """
-    Replaces instances of Chrom(e | ium) with Helium
+    Replaces instances of Chrom(e | ium) with kaguya
     in a <message> or <translation> element (and its children).
     """
     had_any_match = False
@@ -112,7 +112,7 @@ def replace_grit_message(msg):
 
 def replace_xtb_translation(msg, fp_map):
     """
-    Replaces instances of Chrom(e | ium) with Helium in a
+    Replaces instances of Chrom(e | ium) with kaguya in a
     .xtb <translation>.
     """
     if not replace_grit_message(msg):
@@ -130,7 +130,7 @@ def get_parser():
 
 
 def replace_grit_tree(text):
-    """Replaces instances of Chrom(e | ium) with Helium, where desired"""
+    """Replaces instances of Chrom(e | ium) with kaguya, where desired"""
     xml_tree = xml.fromstring(text, get_parser())
     fp_map = {}
 
@@ -153,7 +153,7 @@ def dedup_translations_in_place(translation, seen):
     # If there are colliding strings after name substitution, offset the
     # additional translations so that they don't error out the build.
     # This usually applies to strings that have one "Chromium" and one
-    # "Chrome" variant. Since we substituted both of those with Helium,
+    # "Chrome" variant. Since we substituted both of those with kaguya,
     # their fingerprints collide and crash the build.
     translation_id = translation.get('id')
     while translation_id in seen and translation_id.isdigit():

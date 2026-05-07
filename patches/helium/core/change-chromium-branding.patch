@@ -11,12 +11,12 @@
 -MAC_BUNDLE_ID=org.chromium.Chromium
 +COMPANY_FULLNAME=The Helium Authors
 +COMPANY_SHORTNAME=The Helium Authors
-+PRODUCT_FULLNAME=Helium
-+PRODUCT_SHORTNAME=Helium
-+PRODUCT_INSTALLER_FULLNAME=Helium Installer
-+PRODUCT_INSTALLER_SHORTNAME=Helium Installer
++PRODUCT_FULLNAME=kaguya
++PRODUCT_SHORTNAME=kaguya
++PRODUCT_INSTALLER_FULLNAME=kaguya Installer
++PRODUCT_INSTALLER_SHORTNAME=kaguya Installer
 +COPYRIGHT=Copyright @LASTCHANGE_YEAR@ The Helium Authors. All rights reserved.
-+MAC_BUNDLE_ID=net.imput.helium
++MAC_BUNDLE_ID=dev.justaslime.kaguya
  MAC_CREATOR_CODE=Cr24
 -MAC_TEAM_ID=
 +MAC_TEAM_ID=S4Q33XPHB4

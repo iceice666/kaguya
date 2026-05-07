@@ -70,7 +70,7 @@ def c_all_new_files_have_license_header():
                 continue
 
             assert any('terms of the GPL-3.0 license' in str(hunk) for hunk in file), \
-                   f"File {file.path} was added in {patch}, but contains no Helium license header"
+                   f"File {file.path} was added in {patch}, but contains no kaguya license header"
 
 
 def c_all_new_headers_have_correct_guard():

@@ -5,12 +5,12 @@
  inline constexpr char kShowMediaButton[] = "helium.browser.show_media_button";
  
 +// A boolean pref set to true if the Vertical Tabs collapse button should be
-+// visible on the toolbar when the vertical Helium layout is active.
++// visible on the toolbar when the vertical kaguya layout is active.
 +inline constexpr char kShowVerticalTabsCollapseButton[] =
 +    "helium.browser.show_vertical_tabs_collapse_button";
 +
 +// A boolean pref set to true if the New Tab button should be visible on the
-+// toolbar when the dynamic Helium layout is active.
++// toolbar when the dynamic kaguya layout is active.
 +inline constexpr char kShowDynamicNewTabButton[] =
 +    "helium.browser.show_dynamic_new_tab_button";
 +
@@ -91,7 +91,7 @@
    // Media Picker screen scroll view.
    VIEW_ID_MEDIA_PICKER_SCREEN_SCROLL_VIEW,
 +
-+  // Helium toolbar buttons.
++  // kaguya toolbar buttons.
 +  VIEW_ID_DYNAMIC_NEW_TAB_BUTTON,
 +  VIEW_ID_COLLAPSE_VERTICAL_TABS_BUTTON,
  };
@@ -427,7 +427,7 @@
  #include "chrome/browser/ui/views/frame/browser_root_view.h"
 @@ -288,6 +289,12 @@ class ToolbarView : public views::Access
  
-   // Returns whether the Helium layout is Compact.
+   // Returns whether the kaguya layout is Compact.
    bool IsCompactLayout() const;
 +  bool IsDynamicLayout() const;
 +  bool IsVerticalLayout() const;

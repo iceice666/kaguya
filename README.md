@@ -1,72 +1,69 @@
 <div align="center">
     <img src="resources/branding/app_icon/raw.png"
-        title="Helium" alt="Helium logo" width="120" />
-    <h1>Helium</h1>
+        title="kaguya" alt="kaguya logo" width="120" />
+    <h1>kaguya</h1>
     <p>
         The Chromium-based web browser made for people, with love.
         <br>
         Privacy-first with unbiased ad-blocking. No bloat and no noise.
     </p>
-    <a href="https://helium.computer/">
-        helium.computer
+    <a href="https://github.com/iceice666/kaguya-macos">
+        github.com/iceice666/kaguya-macos
     </a>
 </div>
 
 ## Downloads
 > [!NOTE]
-> Helium is currently in beta, so unexpected issues may occur.
+> kaguya is currently in beta, so unexpected issues may occur.
 > Please report them if they haven't already been reported.
 
-The easiest way to download Helium is [helium.computer](https://helium.computer/).
-It'll pick a compatible binary for your platform automatically.
+The easiest way to download kaguya is from the GitHub releases for macOS.
 
-The same releases can also be downloaded from source on GitHub:
+This project currently ships a macOS version only. Linux and Windows packages
+are not maintained for kaguya at this time.
 
-- [Latest macOS release](https://github.com/imputnet/helium-macos/releases/latest)
-- [Latest Linux release](https://github.com/imputnet/helium-linux/releases/latest)
-- [Latest Windows release](https://github.com/imputnet/helium-windows/releases/latest)
+- [Latest macOS release](https://github.com/iceice666/kaguya-macos/releases/latest)
 
-## Helium repos
-All Helium packaging, tooling, services, and components are open source
+## kaguya repos
+All kaguya packaging, tooling, services, and components are open source
 and published on GitHub.
 
 ### Platform packaging and tooling
-- [Helium for macOS](https://github.com/imputnet/helium-macos)
-- [Helium for Linux](https://github.com/imputnet/helium-linux)
-- [Helium for Windows](https://github.com/imputnet/helium-windows)
+- [kaguya for macOS](https://github.com/iceice666/kaguya-macos)
 
-### Web services and Helium components
-- [Helium services](https://github.com/imputnet/helium-services)
-- [Helium onboarding](https://github.com/imputnet/helium-onboarding)
-- [Helium fork of uBlock Origin](https://github.com/imputnet/uBlock)
+### Web services and kaguya components
+- [kaguya services](https://github.com/iceice666/kaguya-services)
+- [kaguya onboarding](https://github.com/iceice666/kaguya-onboarding)
+- [kaguya fork of uBlock Origin](https://github.com/imputnet/uBlock)
 
 ## Development
-macOS is our primary development platform, so it's the recommended
-development environment for community contributions.
+macOS is the supported development platform for community contributions.
 
-Linux packaging includes a similar development script, so the same guide
-can be applied there too.
-
-[> See development docs in macOS repo](https://github.com/imputnet/helium-macos/blob/main/docs/building.md#development-build-and-environment)
+[> See development docs in macOS repo](https://github.com/iceice666/kaguya-macos/blob/main/docs/building.md#development-build-and-environment)
 
 ## Contributing
-Before contributing to Helium, please read the guidelines in
+Before contributing to kaguya, please read the guidelines in
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Credits
 
+### Helium Browser
+kaguya is a rebrand and downstream fork of
+[Helium Browser](https://github.com/imputnet/helium). Helium-authored files,
+patches, and license notices remain attributed to the Helium project.
+
 ### The Chromium project
-[The Chromium Project](https://www.chromium.org/) is at the core of Helium,
+[The Chromium Project](https://www.chromium.org/) is at the core of kaguya,
 making it possible in the first place.
 
 ### ungoogled-chromium
 This repo is based on [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium),
-but heavily modified for Helium. Special thanks to everyone behind ungoogled-chromium,
+but heavily modified for kaguya. Special thanks to everyone behind ungoogled-chromium,
 they made working with Chromium way easier.
 
 ### Other Chromium browsers
 
-Helium includes some patches from other open source Chromium browsers:
+kaguya includes some patches from other open source Chromium browsers:
 
 - [Inox patchset](https://github.com/gcarq/inox-patchset)
 - [Debian](https://tracker.debian.org/pkg/chromium-browser)
@@ -78,9 +75,10 @@ All patches are sorted by vendor in the [patches](patches/) directory of this re
 
 ## License
 All code, patches, modified portions of imported code or patches, and
-any other content that is unique to Helium and not imported from other
+any other content that is unique to kaguya and not imported from other
 repositories is licensed under GPL-3.0. See [LICENSE](LICENSE).
 
-Any content imported from other projects retains its original license (for
-example, any original unmodified code imported from ungoogled-chromium remains
-licensed under their [BSD 3-Clause license](LICENSE.ungoogled_chromium)).
+Any content imported from Helium, ungoogled-chromium, Chromium, or other
+upstream projects retains its original license and copyright notices. For
+example, original unmodified code imported from ungoogled-chromium remains
+licensed under their [BSD 3-Clause license](LICENSE.ungoogled_chromium).
