@@ -3,7 +3,6 @@
 // the terms of the GPL-3.0 license that can be found in the LICENSE file.
 
 CANVAS_DIMENSIONS, 56,
-FILL_RULE_EVENODD,
 MOVE_TO, 49, 28,
 CUBIC_TO, 49, 37.94f, 40.94f, 46, 31, 46,
 CUBIC_TO, 21.06f, 46, 13, 37.94f, 13, 28,
